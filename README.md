@@ -14,4 +14,16 @@
 <body>
 1.Android studio<br>
 2.Java<br>
-3.Progress Bar status<br></body>
+3.Progress Bar status<br><br><br>
+
+![alt text](https://github.com/yssharmasharma/Quizapp/blob/master/quiz1.png?raw=true)
+![alt text](https://github.com/yssharmasharma/Quizapp/blob/master/quiz2.png?raw=true)
+
+![alt text](https://github.com/yssharmasharma/Quizapp/blob/master/quiz3.png?raw=true)
+![alt text](https://github.com/yssharmasharma/Quizapp/blob/master/quiz4.png?raw=true)
+
+
+
+
+
+</body>
